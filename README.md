@@ -16,8 +16,7 @@ Este sistema de gerenciamento de projetos foi desenvolvido utilizando o framewor
 1. **Clone o repositório:**
     
     ```bash
-    bash
-    CopyEdit
+
     git clone https://github.com/usuario/projeto-pmbok6
     
     ```
@@ -25,8 +24,7 @@ Este sistema de gerenciamento de projetos foi desenvolvido utilizando o framewor
 2. **Instale as dependências:**
     
     ```bash
-    bash
-    CopyEdit
+
     npm install
     
     ```
@@ -34,8 +32,7 @@ Este sistema de gerenciamento de projetos foi desenvolvido utilizando o framewor
 3. **Execute o projeto:**
     
     ```bash
-    bash
-    CopyEdit
+
     npm run dev
     
     ```
