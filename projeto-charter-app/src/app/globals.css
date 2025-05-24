@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+/* 
+  Base styles are primarily handled by Tailwind's preflight 
+  and utility classes applied in layout.tsx and other components.
+
+  The Geist font variables are set in layout.tsx and applied to the body.
+  Background and text colors are also set in layout.tsx using Tailwind classes.
+
+  Any truly global base styles (e.g., for specific HTML elements not covered
+  by preflight or needing overrides) could be added here, but for now,
+  we'll keep it minimal to let Tailwind and component-level styling take precedence.
+*/
+
+/* Example of a global style if needed:
+html {
+  scroll-behavior: smooth;
+}
+*/
